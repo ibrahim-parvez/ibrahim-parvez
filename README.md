@@ -70,6 +70,6 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahim-parvez&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Ibrahim's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ibrahim-parvez&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true" alt="Ibrahim's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-parvez&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
