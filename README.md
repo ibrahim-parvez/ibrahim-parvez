@@ -18,6 +18,15 @@
 
 ---
 
+### 🔬 Currently Working On
+
+**[MRSI Data Normalization Tool](https://github.com/ibrahim-parvez/MRSI_Data_Normalization_Tool)** *Research Software Engineer @ McMaster University Faculty of Science* I am actively developing and maintaining a Python-based desktop application (architected with PyQt6) designed to fully automate the processing and standardization of raw mass spectrometer data for the MRSI research group.
+
+* **Workflow Automation:** Engineered robust data extraction and manipulation workflows using `openpyxl`. This completely eliminated the need for manual data entry, saving researchers roughly **5 hours** of manual work per dataset while ensuring zero human error.
+* **Current Focus:** Leading the software testing phase by writing rigorous unit tests for edge cases to guarantee high data fidelity. I am continuously rolling out new features based on direct lab feedback, including refining the application's GUI styling and implementing lenient, substring-based identification algorithms to accurately parse reference materials with variable suffixes.
+
+---
+
 ### 💻 Tech Stack
 
 <details open>
