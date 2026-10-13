@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ibrahimparvez/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:parvezi@mcmaster.ca"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://mrsi.mcmaster.ca"><img src="https://img.shields.io/badge/mrsi.mcmaster.ca-7A003C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="MRSI website"/></a>
 </p>
 
 ---
